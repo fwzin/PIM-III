@@ -1,5 +1,9 @@
 # PIM III - Startup fazenda urbana com foco em garantir inovação para área de segurança alimentar.
 
+<div align="center">
+	<code><img width="350" src="https://github.com/fwzin/PIM-III---Arquivos/blob/main/Black%20Brown%20Vintage%20Cattle%20Farm%20Logo.png?raw=true" alt="logo" title="logo"/></code>
+</div>
+
 ## Visão Geral
 
 Este é o Projeto Integrado Multidisciplinar (PIM) III, que aborda o levantamento e análise de requisitos de um sistema de controle para uma fazenda urbana. O projeto está sendo desenvolvido por um grupo de alunos da Universidade Paulista (UNIP) e tem como objetivo garantir inovação na área de segurança alimentar, conforme especificado no escopo.
