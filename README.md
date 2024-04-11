@@ -30,7 +30,7 @@ Francisco Costa
 - Leonardo de Souza Machado
 - Marcos Antônio da Silva Peixinho
 - Renato Eudes Nascimento Botelho
-- Nicole Ferreira Da Silva (honorária)
+- Nicole Ferreira Da Silva
 
 ### Equipes Envolvidas
 Não especificado.
