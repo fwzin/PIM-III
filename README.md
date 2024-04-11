@@ -1,7 +1,7 @@
 # PIM III - Startup fazenda urbana com foco em garantir inovação para área de segurança alimentar.
 
 <div align="center">
-	<code><img width="350" src="https://github.com/fwzin/PIM-III---Arquivos/blob/main/Black%20Brown%20Vintage%20Cattle%20Farm%20Logo.png?raw=true" alt="logo" title="logo"/></code>
+	<code><img width="350" src="https://raw.githubusercontent.com/fwzin/PIM-III---Arquivos/main/Imagens/leaf%20(1)/3.png?token=GHSAT0AAAAAACP3J6DI7Q7EREEQ66Q6RUS6ZQYHNEA" alt="logo" title="logo"/></code>
 </div>
 
 ## Visão Geral
